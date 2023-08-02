@@ -3,6 +3,7 @@ layout: project_page
 permalink: /
 
 title: PlaneDict: Learning Dense Correspondence of Tri-Planes for One-Shot Multi-View Face Reenactment
+
 ---
 
 <div class="columns is-centered has-text-centered">

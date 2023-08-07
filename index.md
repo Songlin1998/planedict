@@ -16,3 +16,10 @@ One-shot multi-view face reenactment aims to drive a source face image with the 
 </div>
 
 ---
+
+## Framework
+![](/static/image/pipeline.png)
+
+## Cross-identity Face Reenactment
+![](/static/image/demo_0.gif)
+![](/static/image/demo_1.gif)

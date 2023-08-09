@@ -30,3 +30,4 @@ The application of Neural Radiance Field (NeRF) in face reenactment has demonstr
 
 ## <center> Multi-View Synthesis
 ![](/static/image/demo_2.gif)
+![](/static/image/demo_3.gif)

@@ -17,11 +17,16 @@ The application of Neural Radiance Field (NeRF) in face reenactment has demonstr
 
 ---
 
-## Framework
+## <center> Framework
 ![](/static/image/pipeline.png)
 
-## Cross-Identity Face Reenactment
+---
+
+## <center> Cross-Identity Face Reenactment
 ![](/static/image/demo_0.gif)
 ![](/static/image/demo_1.gif)
 
-## Multi-View Synthesis
+---
+
+## <center> Multi-View Synthesis
+![](/static/image/demo_2.gif)

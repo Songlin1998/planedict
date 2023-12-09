@@ -1,9 +1,16 @@
 ---
 layout: project_page
 permalink: /
-
 title: Learning Dense Correspondence for NeRF-Based Face Reenactment
-Paper: https://songlin1998.github.io/planedict/
+authors:
+Songlin Yang<sup>1,</sup><sup>2</sup>, Wei Wang<sup>2</sup>, Yushi Lan<sup>3</sup>, Xiangyu Fan<sup>4</sup>, Bo Peng<sup>2</sup>, Lei Yang<sup>4</sup>, Jing Dong<sup>2</sup>
+affiliations:
+    1 School of Artificial Intelligence, University of Chinese Academy of Sciences, China <br>
+    2 CRIPAC & MAIS, Institute of Automation, Chinese Academy of Sciences, China <br>
+    3 S-Lab, Nanyang Technological University, Singapore <br>
+    4 SenseTime, China <br>
+paper: https://songlin1998.github.io/THEdit/
+code: https://songlin1998.github.io/THEdit/
 ---
 
 <div class="columns is-centered has-text-centered">

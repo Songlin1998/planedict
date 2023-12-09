@@ -1,8 +1,8 @@
 ---
 layout: project_page
 permalink: /
-title: Learning Dense Correspondence for NeRF-Based Face Reenactment
-authors: **AAAI 2024** <br> Songlin Yang<sup>1,</sup><sup>2</sup>, Wei Wang<sup>2</sup>, Yushi Lan<sup>3</sup>, Xiangyu Fan<sup>4</sup>, Bo Peng<sup>2</sup>, Lei Yang<sup>4</sup>, Jing Dong<sup>2</sup>
+title: Learning Dense Correspondence for NeRF-Based Face Reenactment <br> AAAI 2024 
+authors: Songlin Yang<sup>1,</sup><sup>2</sup>, Wei Wang<sup>2</sup>, Yushi Lan<sup>3</sup>, Xiangyu Fan<sup>4</sup>, Bo Peng<sup>2</sup>, Lei Yang<sup>4</sup>, Jing Dong<sup>2</sup>
 affiliations:
     1 School of Artificial Intelligence, University of Chinese Academy of Sciences, China <br>
     2 CRIPAC & MAIS, Institute of Automation, Chinese Academy of Sciences, China <br>

@@ -11,7 +11,6 @@ affiliations:
 paper: https://songlin1998.github.io/THEdit/
 code: https://songlin1998.github.io/THEdit/
 ---
-
 <div class="columns is-centered has-text-centered">
     <div class="column is-four-fifths">
         <h2>Abstract</h2>

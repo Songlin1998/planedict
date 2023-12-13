@@ -8,8 +8,8 @@ affiliations:
     2 CRIPAC & MAIS, Institute of Automation, Chinese Academy of Sciences, China <br>
     3 S-Lab, Nanyang Technological University, Singapore <br>
     4 SenseTime, China <br>
-paper: https://songlin1998.github.io/THEdit/
-code: https://songlin1998.github.io/THEdit/
+paper: https://songlin1998.github.io/planedict/
+code: https://songlin1998.github.io/planedict/
 ---
 <div class="columns is-centered has-text-centered">
     <div class="column is-four-fifths">
